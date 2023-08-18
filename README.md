@@ -4,7 +4,7 @@ Automated CI/CD Pipeline for Java Application with Jenkins, Maven, SonarQube, Do
 
 ## Description
 
-This repository contains the code and configuration for setting up an end-to-end Continuous Integration and Continuous Deployment (CI/CD) pipeline for a Java application. The pipeline automates the entire process from code checkout to production deployment using popular DevOps tools like SonarQube for static code analysis, Argo CD for GitOps-based application deployment, Helm for Kubernetes package management, and Kubernetes for orchestration.
+This repository showcases an end-to-end Continuous Integration and Continuous Deployment (CI/CD) pipeline for a Java application. The pipeline automates the entire process, from code checkout to production deployment, leveraging popular DevOps tools such as SonarQube, Argo CD, Helm, and Kubernetes.
 
 ## Features
 
