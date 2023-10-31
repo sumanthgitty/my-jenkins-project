@@ -1,6 +1,6 @@
 # Project Title
 
-Automated CI/CD Pipeline for Java Application with Jenkins, Maven, SonarQube, Docker, Argo CD and Kubernetes.
+CI/CD Pipeline for Java Application with Jenkins, Maven, SonarQube, Docker, Argo CD and Kubernetes.
 
 ## Description
 
